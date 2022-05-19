@@ -1,4 +1,5 @@
 /* A simple program to run a bootloader using the qemy systems emulator.
+Note that the boot sector is 512 bytes in size.
 See Makefile to compile and run. */
 
 /* activate the 16-bit mode */
