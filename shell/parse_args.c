@@ -3,6 +3,8 @@
 #include <string.h>
 #include <unistd.h>
 
+/* reads input in an endless loop and parses args for future pipe processing */
+
 #define CAPACITY 156
 
 char ***allocate_mem(int capacity)
